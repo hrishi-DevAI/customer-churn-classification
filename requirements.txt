@@ -6,4 +6,4 @@ tensorboard
 matplotlib
 streamlit
 seaborn
-pip==24.3.1
+keras
